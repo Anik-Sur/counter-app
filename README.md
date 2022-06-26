@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Simple Counter application for Shopping cart
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
